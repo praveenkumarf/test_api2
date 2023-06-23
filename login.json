@@ -1,0 +1,33 @@
+{
+    "aliasName": "1",
+    "userGUID": "9E7903AF-54BE-4F6D-83E2-AEFAC9436F32",
+    "loginAttempts": 0,
+    "remainingLockTime": 0,
+    "smtpAddress": "test@arrosoft.lab",
+    "userName": "admin",
+    "providerType": 1,
+    "ccn": 0,
+    "token": "QSDK 344f5c5e8c47767ebc379221688acc3ce1dc4f2e05cf78194f6dbc6e49833dcf43e6fdb6b8deaac2fd569b0bbf4b561adb442017050fc6d8a35b54006ebb8a2f95b5ba936f03894647693bda2e15b90019efc7fbaebe5fbb82eee2b7c3e372082f6085e3ef5cf8ff374199b67d540f185d99cb0687bd5607a65b4811a98b45334c78e8309aa872d5d8ecff2a27e196bff8a6e571df9613a89475219a2028d0e532a15b672a7707fbd101c987bca5979b01f27b048721be260cdf2b36e59108b6d7c7ee2b68e1aef4c6e2711e7feffc6dc37cda878cc8095241e81fc290c3596bf647760b81ca7fb80a1dcdd7ef9a047257ada4eaeb5a80cda",
+    "capability": 4328650366975,
+    "forcePasswordChange": false,
+    "isAccountLocked": false,
+    "ownerOrganization": {
+        "GUID": "95189d4e-4a7f-4cb3-969f-80d5871ac13f",
+        "providerId": 0,
+        "providerDomainName": "Commcell"
+    },
+    "additionalResp": {
+        "nameValues": [
+            {
+                "name": "USERNAME",
+                "value": "admin"
+            }
+        ]
+    },
+    "providerOrganization": {
+        "GUID": "95189d4e-4a7f-4cb3-969f-80d5871ac13f",
+        "providerId": 0,
+        "providerDomainName": "Commcell"
+    },
+    "errList": []
+}
